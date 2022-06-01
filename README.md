@@ -8,3 +8,5 @@ Instructions are also included in project:
 - Dodge!: the player will run into either a bush or a bird: type "jump" to dodge the bush; type "duck" to dodge the bird
 
 Scores are displayed upon user request.
+
+Type "play" to awaken bot!
